@@ -1,0 +1,2 @@
+import{o as n,f as s,j as t}from"./DIBLJojdTQB51I2zM4gm.js";import{m as r}from"./BjsUGUt7urnTyqNcsXw0.js";const c=n(()=>(s.useEffect(()=>{function o(e){if(e.key==="Escape")r.pop("close");else if(e.key==="Enter"){if(e.target instanceof HTMLSelectElement)return;r.pop("confirm")}}return document.addEventListener("keydown",o),()=>document.removeEventListener("keydown",o)},[]),t.jsx(t.Fragment,{children:r.rendered})));export{c as M};
+//# sourceMappingURL=cCp-HAoOPHGa1LpyJzlu.js.map

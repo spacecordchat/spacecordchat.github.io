@@ -1,0 +1,2 @@
+import{R as o,K as p,j as c}from"./DIBLJojdTQB51I2zM4gm.js";import{u as g}from"./DjcqUJEG4E-ucoD4ooZL.js";const m=o.forwardRef(function({children:e,asChild:r=!1,...s},a){const t=g(),f=e.ref,n=p([t.refs.setReference,a,f]);return r&&o.isValidElement(e)?o.cloneElement(e,t.getReferenceProps({ref:n,...s,...e.props,"data-state":t.open?"open":"closed"})):c.jsx("span",{ref:n,"data-state":t.open?"open":"closed",...t.getReferenceProps(s),children:e})});export{m as F};
+//# sourceMappingURL=CyZnPRBWArEMDvvPykKU.js.map

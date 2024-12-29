@@ -1,0 +1,1 @@
+{"version":3,"file":"BV-6LX_Gn8Wz_usUCJsP.js","sources":["../../src/hooks/useAppStore.ts"],"sourcesContent":["import AppStore from \"../stores/AppStore\";\n\nexport const appStore = new AppStore();\n\nexport function useAppStore() {\n\treturn appStore;\n}\n"],"names":["appStore","AppStore","useAppStore"],"mappings":"8CAEa,MAAAA,EAAW,IAAIC,EAErB,SAASC,GAAc,CACtB,OAAAF,CACR"}
